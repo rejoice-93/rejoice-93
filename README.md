@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rejoice_ofili
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL, Tableau, Python and Spreadsheets
-- 💞️ I’m looking to collaborate on live projects and gigs
+- 💞️ I’m looking to collaborate with people in this field working on live projects and gigs
 - 📫 How to reach me
 
 <!---
